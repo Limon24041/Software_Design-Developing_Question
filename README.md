@@ -90,23 +90,7 @@ Information and Communication Technology (ICT)
 
 ---
 
-## Marks Distribution
 
-| Question | Marks |
-|---|---:|
-| Q1 | 4 |
-| Q2 | 4 |
-| Q3 | 4 |
-| Q4 | 4 |
-| Q5 | 4 |
-| Q6 | 4 |
-| Q7 | 4 |
-| Q8 | 4 |
-| Q9 | 4 |
-| Q10 | 4 |
-| **Total** | **40** |
-
----
 
 ## Submission
 
