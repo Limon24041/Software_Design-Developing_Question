@@ -1,97 +1,121 @@
-# Software Design: Question Bank
+# Software Design: Question Development
 
-## 1. Design Fundamentals
+## Software Engineering and Project Management
 
-a. Define software design and state the input of the design process.
+**University:** Mawlana Bhashani Science and Technology University (MBSTU)  
+**Department:** Information and Communication Technology (ICT)  
+**Course Code:** ICT-3107  
+**Name:** Limon Hasan  
+**ID:** IT-24041  
+**Session:** 2023–2024  
+**Year:** 3rd Year  
+**Semester:** 1st Semester  
 
-b. Distinguish between architectural design and detailed design.
+---
 
-c. State the outcome of the design process and explain why the rationale of design decisions is recorded.
+## Assignment Information
 
-d. Define coupling and cohesion, and state which of the two should be low and which should be high in a good design.
+| Item | Details |
+|---|---|
+| Assignment Title | Software Design: Developing Questions |
+| Course | Software Engineering and Project Management |
+| Total Marks | 40 |
+| Duration | 1 Hour |
+| Total Questions | 10 |
+| Marks per Question | 4 |
+| Question Type | Short Answer and Conceptual Questions |
 
-e. Explain abstraction, encapsulation and information hiding as principles of good design.
 
-## 2. Software Design Quality and Metrics
+# Question Set
 
-a. Describe two ways of assessing the quality of a software design.
+### Q1. Software Design Fundamentals — [4 Marks]
 
-b. Define Coupling Between Object classes (CBO) and explain what it measures.
+**a)** Define software design and briefly describe its two major stages: Architectural Design and Detailed Design. (2)
 
-c. Explain the Lack of Cohesion of Methods (LCOM) metric using the sets P and Q, and state its formula.
+**b)** Explain the concepts of Modularity, Decomposition, Low Coupling, and High Cohesion in software design. (2)
 
-d. Define Weighted Methods per Class (WMC) and describe two ways of measuring the complexity of a method.
+### Q2. Software Design Quality and Metrics — [4 Marks]
 
-e. Define Depth of Inheritance Tree (DIT) and Number of Children (NOC), and explain what they indicate about reuse and complexity.
+**a)** What are software design metrics? Define CBO and WMC. (2)
 
-## 3. Software Architecture
+**b)** Explain the significance of LCOM, RFC, DIT, and NOC in evaluating object-oriented software design quality. (2)
 
-a. Define software architecture in its strict sense.
+### Q3. Software Architecture and Architectural Styles — [4 Marks]
 
-b. State the three things that a software architecture comprises.
+**a)** Define software architecture and mention any two architectural styles. (2)
 
-c. Explain how software architecture emerged as a broader discipline during the mid-1990s.
+**b)** Explain the basic concepts of Layered Architecture and Event-Based Architecture. (2)
 
-d. At which two levels of design are the concepts of software architecture useful?
+### Q4. GoF Design Patterns — [4 Marks]
 
-e. Explain why most architectural concepts can be seen as attempts to describe and reuse design knowledge.
+**a)** What is a software design pattern? Classify GoF design patterns into their three major categories with one example from each category. (2)
 
-## 4. Architectural Styles
+**b)** Explain the purpose of any two of the following design patterns: Strategy, Observer, Adapter, and Facade. (2)
 
-a. Describe the layered architectural style.
+### Q5. Creational and Behavioral Design Patterns — [4 Marks]
 
-b. Explain the event-based architectural style with the roles of producers and consumers.
+**a)** Define Factory Method and Singleton design patterns. (2)
 
-c. Explain the roles of the Model, the View and the Controller in the MVC style.
+**b)** Explain the working principles of the Template Method and Command design patterns. (2)
 
-d. Describe the blackboard (repository) architectural style.
+### Q6. Enterprise Application Architecture — [4 Marks]
 
-e. Explain the pipes and filters style with an example from a command-line shell.
+**a)** Define Domain Model and Service Layer patterns. (2)
 
-## 5. Design Patterns and the GoF Classification
+**b)** Explain Object-Relational Mapping (ORM) and the role of Data Mapper in Enterprise Application Architecture. (2)
 
-a. Define a design pattern according to Christopher Alexander.
+### Q7. Object-Relational Mapping Patterns — [4 Marks]
 
-b. Who are the Gang of Four (GoF), and how do they describe design patterns?
+**a)** What are Identity Field and Foreign Key Mapping? (2)
 
-c. Name the three categories of GoF patterns.
+**b)** Explain Association Table Mapping and briefly describe the purpose of inheritance mapping in ORM. (2)
 
-d. List at least three creational patterns and three structural patterns.
+### Q8. Presentation Logic Patterns — [4 Marks]
 
-e. Differentiate between creational, structural and behavioral patterns.
+**a)** Define Model-View-Controller (MVC) and identify its three main components. (2)
 
-## 6. GoF Design Patterns
+**b)** Explain the differences between Page Controller and Front Controller patterns. (2)
 
-a. State the intent of the Strategy pattern and list its benefits and one liability.
+### Q9. User Interface Design Principles — [4 Marks]
 
-b. Explain the structure of the Adapter pattern by describing the roles of Target, Client, Adaptee and Adapter.
+**a)** Mention any four fundamental principles of User Interface (UI) design. (2)
 
-c. Explain how the Composite pattern allows clients to treat individual objects and compositions of objects uniformly.
+**b)** Explain the importance of Recoverability, User Guidance, and User Diversity in UI design. (2)
 
-d. State the intent of the Singleton pattern and list its benefits and liabilities.
+### Q10. User Interface Interaction Modalities — [4 Marks]
 
-e. Compare the Decorator pattern with inheritance for adding functionality to objects.
+**a)** List any four UI interaction modalities. (2)
 
-## 7. Enterprise Application Architecture (EAA) Patterns
+**b)** Explain the concepts of Direct Manipulation and Form Fill-in with suitable examples. (2)
 
-a. Define the Domain Model pattern and state when it is a good choice.
+---
 
-b. Explain the purpose of the Service Layer pattern.
+## Marks Distribution
 
-c. Define Object-Relational Mapping (ORM) and explain the role of the Data Mapper pattern.
+| Question | Marks |
+|---|---:|
+| Q1 | 4 |
+| Q2 | 4 |
+| Q3 | 4 |
+| Q4 | 4 |
+| Q5 | 4 |
+| Q6 | 4 |
+| Q7 | 4 |
+| Q8 | 4 |
+| Q9 | 4 |
+| Q10 | 4 |
+| **Total** | **40** |
 
-d. Differentiate between Single Table Inheritance, Class Table Inheritance and Concrete Table Inheritance.
+---
 
-e. Differentiate between the Page Controller and Front Controller patterns, and state when each works best.
+## Submission
 
-## 8. User Interface Design
+This repository contains the question set developed for the Software Design assignment under the Software Engineering and Project Management course.
 
-a. List any four fundamental principles of user interface design.
+The questions are organized according to the assigned topics, marks distribution, and course requirements.
 
-b. Explain the principles of recoverability, user guidance and user diversity.
+**Submitted by:** Limon Hasan  
+**Student ID:** IT-24041  
+**Department:** Information and Communication Technology  
+**University:** Mawlana Bhashani Science and Technology University
 
-c. Name the six modalities of user interaction with software.
-
-d. Differentiate between direct manipulation and form fill-in.
-
-e. State four guidelines for using colour when presenting information to the user.
