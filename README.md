@@ -2,8 +2,8 @@
 
 ## Software Engineering and Project Management
 
-**University:** Mawlana Bhashani Science and Technology University (MBSTU)  
-**Department:** Information and Communication Technology (ICT)  
+Mawlana Bhashani Science and Technology University (MBSTU)  
+Information and Communication Technology (ICT)  
 **Course Code:** ICT-3107  
 **Name:** Limon Hasan  
 **ID:** IT-24041  
